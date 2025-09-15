@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <h1>Hi, I'm <span class="highlight">Your Name</span></h1>
+      <p>Student | Developer | Tech Enthusiast</p>
+    </div>
+  </header>
+
+  <!-- About -->
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        I am a passionate student and developer, eager to learn and build impactful projects. 
+        Skilled in programming, web development, and problem-solving.
+      </p>
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>🏆 Project 1</h3>
+        <p>Brief description of your project. <a href="https://github.com/yourusername/project1">View on GitHub</a></p>
+      </div>
+      <div class="project">
+        <h3>📊 Project 2</h3>
+        <p>Brief description of your project. <a href="https://github.com/yourusername/project2">View on GitHub</a></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills -->
+  <section id="skills">
+    <div class="container">
+      <h2>Technical Skills</h2>
+      <ul>
+        <li>💻 Python, Java, C++</li>
+        <li>🌐 HTML, CSS, JavaScript</li>
+        <li>☁️ AWS, Git/GitHub</li>
+        <li>🤖 Machine Learning Basics</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Resume -->
+  <section id="resume">
+    <div class="container">
+      <h2>Resume</h2>
+      <p>Download my resume <a href="resume.pdf" target="_blank">here</a>.</p>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+      <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/yourusername">linkedin.com/in/yourusername</a></p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Your Name | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
