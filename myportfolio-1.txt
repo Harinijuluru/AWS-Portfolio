@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harini Juluru | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <h1>Hi, I'm <span class="highlight">Harini Juluru</span></h1>
+      <p>Engineering Student | Aspiring Developer | Tech Enthusiast</p>
+    </div>
+  </header>
+
+  <!-- About -->
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        I'm a smart-working engineering student specialized in Computer Science and Engineering at SR University (2023-2027). 
+        I have completed courses in Python, SQL, Java, HTML, and CSS, and I am excited about contributing to innovative projects 
+        that can make a meaningful impact on society.
+      </p>
+      <p><strong>Current GPA:</strong> 9.0</p>
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>🤖 AI-Powered Automatic Mopping Robot</h3>
+        <p>
+          Developed a smart home cleaning assistant powered by AI to automate mopping tasks. 
+          Designed to help working individuals, senior citizens, and people with disabilities 
+          maintain hygienic living spaces.
+        </p>
+      </div>
+      <div class="project">
+        <h3>🩺 Lung Cancer Disease Prediction</h3>
+        <p>
+          Built a dataset-driven project analyzing cancer risk factors including demographics, 
+          environmental exposures, lifestyle habits, and clinical symptoms. 
+          Dataset included 1,000 individuals with 26 parameters.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills -->
+  <section id="skills">
+    <div class="container">
+      <h2>Skills</h2>
+      <h3>Technical Skills</h3>
+      <ul>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>Java</li>
+        <li>C</li>
+        <li>HTML, CSS</li>
+      </ul>
+      <h3>Soft Skills</h3>
+      <ul>
+        <li>Time Management</li>
+        <li>Teamwork</li>
+        <li>Communication Skills</li>
+        <li>Problem Solving</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Education -->
+  <section id="education">
+    <div class="container">
+      <h2>Education</h2>
+      <p><strong>SR University</strong> (2023-2027)</p>
+      <p>Bachelor of Technology in Computer Science and Engineering</p>
+    </div>
+  </section>
+
+  <!-- Resume -->
+  <section id="resume">
+    <div class="container">
+      <h2>Resume</h2>
+      <p>Download my resume <a href="resume.pdf" target="_blank">here</a>.</p>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>📞 8019142532</p>
+      <p>📧 <a href="mailto:harinijuluru064@gmail.com">harinijuluru064@gmail.com</a></p>
+      <p>🔗 LinkedIn: <a href="https://linkedin.com/in/harini-juluru" target="_blank">Harini Juluru</a></p>
+      <p>📍 Godavarikhani, Telangana</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Harini Juluru | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
